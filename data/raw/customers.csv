@@ -1,0 +1,251 @@
+customer_id,first_name,last_name,email,signup_date,age,country
+C0001,Priya,Smith,priya.smith001@example.com,2023-07-18,33,GERMANY
+C0002,Omar,Brown,omar.brown002@example.com,2025-10-17,65,SOUTH AFRICA
+C0003,Samuel,Khan,samuel.khan003@example.com,2025-04-24,45,CANADA
+C0004,Jane,Khan,jane.khan004@example.com,2023-03-24,32,PAKISTAN
+C0005,Ryan,Smith,ryan.smith005@example.com,2025-02-23,30,AUSTRALIA
+C0006,Samuel,Thompson,samuel.thompson006@example.com,2023-03-28,46,CHINA
+C0007,Mia,Doe,mia.doe007@example.com,2022-11-23,62,DENMARK
+C0008,Yuki,Wilson,yuki.wilson008@example.com,2022-11-15,31,UAE
+C0009,Yuki,Brown,yuki.brown009@example.com,2022-07-09,42,BRAZIL
+C0010,Alex,Jackson,alex.jackson010@example.com,2025-05-21,34,SAUDI ARABIA
+C0011,Amit,Sanchez,amit.sanchez011@example.com,2025-01-03,25,NORWAY
+C0012,Sara,Young,sara.young012@example.com,2023-08-24,71,SOUTH KOREA
+C0013,Chloe,Martin,chloe.martin013@example.com,2025-03-28,30,AUSTRALIA
+C0014,Wei,Patel,wei.patel014@example.com,2025-09-16,32,UAE
+C0015,Arjun,Khan,arjun.khan015@example.com,2023-04-22,73,BRAZIL
+C0016,Diego,Wilson,diego.wilson016@example.com,2024-07-17,58,EGYPT
+C0017,Nina,Miller,nina.miller017@example.com,2024-01-29,40,FRANCE
+C0018,Mia,Chen,mia.chen018@example.com,2025-06-01,58,IRELAND
+C0019,Samuel,Lopez,samuel.lopez019@example.com,2022-12-01,47,NORWAY
+C0020,Mia,Young,mia.young020@example.com,2023-03-26,61,NETHERLANDS
+C0021,Maria,Hernandez,maria.hernandez021@example.com,2022-03-07,69,NETHERLANDS
+C0022,Camila,Wilson,camila.wilson022@example.com,2022-05-16,31,CHINA
+C0023,Hiro,Martinez,hiro.martinez023@example.com,2025-09-04,49,NORWAY
+C0024,Min,Jones,min.jones024@example.com,2023-06-27,26,GERMANY
+C0025,Grace,Walker,grace.walker025@example.com,2023-06-23,65,CHINA
+C0026,Isabella,Perez,isabella.perez026@example.com,2024-01-12,32,UK
+C0027,Ivan,Ramirez,ivan.ramirez027@example.com,2022-07-06,66,CANADA
+C0028,Priya,Jones,priya.jones028@example.com,2025-07-09,28,SAUDI ARABIA
+C0029,Isabella,Chen,isabella.chen029@example.com,2024-02-28,42,JAPAN
+C0030,Min,Robinson,min.robinson030@example.com,2023-05-30,53,NIGERIA
+C0031,John,Johnson,john.johnson031@example.com,2025-10-28,74,BANGLADESH
+C0032,Mia,Moore,mia.moore032@example.com,2022-08-17,36,DENMARK
+C0033,Lucas,Sanchez,lucas.sanchez033@example.com,2022-01-07,64,SOUTH AFRICA
+C0034,Ethan,Lewis,ethan.lewis034@example.com,2023-01-01,50,BRAZIL
+C0035,Ananya,Lewis,ananya.lewis035@example.com,2025-06-01,30,UK
+C0036,Nina,Miller,nina.miller036@example.com,2025-01-09,67,PAKISTAN
+C0037,John,Taylor,john.taylor037@example.com,2024-09-27,19,BRAZIL
+C0038,Nina,Thomas,nina.thomas038@example.com,2023-05-06,21,GERMANY
+C0039,Daniel,Khan,daniel.khan039@example.com,2022-06-25,64,INDIA
+C0040,Wei,Walker,wei.walker040@example.com,2022-09-15,26,SINGAPORE
+C0041,Ahmed,Young,ahmed.young041@example.com,2022-12-05,34,PAKISTAN
+C0042,Ryan,White,ryan.white042@example.com,2023-03-10,52,UAE
+C0043,Noah,Thomas,noah.thomas043@example.com,2024-03-28,60,SOUTH KOREA
+C0044,Nina,Harris,nina.harris044@example.com,2024-11-25,46,BRAZIL
+C0045,Sophia,Hernandez,sophia.hernandez045@example.com,2022-05-12,39,USA
+C0046,Zoe,Young,zoe.young046@example.com,2023-04-17,55,GERMANY
+C0047,John,Chen,john.chen047@example.com,2025-12-20,58,CANADA
+C0048,Liam,Chen,liam.chen048@example.com,2022-03-06,73,NETHERLANDS
+C0049,Wei,Lewis,wei.lewis049@example.com,2023-05-03,35,SINGAPORE
+C0050,Layla,Martinez,layla.martinez050@example.com,2025-01-09,26,NEW ZEALAND
+C0051,Daniel,Clark,daniel.clark051@example.com,2023-05-13,68,INDIA
+C0052,Mateo,Rodriguez,mateo.rodriguez052@example.com,2022-07-13,24,SINGAPORE
+C0053,Isabella,Jackson,isabella.jackson053@example.com,2024-05-17,44,POLAND
+C0054,Maria,Brown,maria.brown054@example.com,2022-05-05,43,NEW ZEALAND
+C0055,Yuki,Brown,yuki.brown055@example.com,2023-05-25,30,FRANCE
+C0056,Samuel,Harris,samuel.harris056@example.com,2022-10-15,45,IRELAND
+C0057,Mia,Sanchez,mia.sanchez057@example.com,2023-05-27,73,MEXICO
+C0058,Chen,Young,chen.young058@example.com,2022-07-20,21,SOUTH KOREA
+C0059,Samuel,Doe,samuel.doe059@example.com,2022-07-11,66,NIGERIA
+C0060,Sophia,Miller,sophia.miller060@example.com,2024-04-12,49,INDIA
+C0061,Olivia,Perez,olivia.perez061@example.com,2022-05-01,28,NORWAY
+C0062,John,Lee,john.lee062@example.com,2023-06-28,68,SAUDI ARABIA
+C0063,Min,Anderson,min.anderson063@example.com,2024-05-16,62,NEW ZEALAND
+C0064,Grace,Ramirez,grace.ramirez064@example.com,2022-11-14,30,ITALY
+C0065,Olivia,Garcia,olivia.garcia065@example.com,2025-04-01,65,BANGLADESH
+C0066,Maria,Taylor,maria.taylor066@example.com,2022-04-28,21,CHINA
+C0067,Ahmed,Lewis,ahmed.lewis067@example.com,2024-12-23,28,CANADA
+C0068,Ivan,Khan,ivan.khan068@example.com,2023-01-16,22,JAPAN
+C0069,Wei,Lopez,wei.lopez069@example.com,2024-04-06,25,SOUTH AFRICA
+C0070,Daniel,Lopez,daniel.lopez070@example.com,2025-03-31,56,CANADA
+C0071,Chloe,Khan,chloe.khan071@example.com,2024-05-08,60,CHINA
+C0072,Daniel,Robinson,daniel.robinson072@example.com,2023-10-10,34,FRANCE
+C0073,Hiro,Lopez,hiro.lopez073@example.com,2023-06-28,43,UK
+C0074,Ananya,Sanchez,ananya.sanchez074@example.com,2023-10-10,66,MEXICO
+C0075,John,Sanchez,john.sanchez075@example.com,2025-06-26,54,BRAZIL
+C0076,Wei,Walker,wei.walker076@example.com,2023-03-13,50,SPAIN
+C0077,Omar,Jackson,omar.jackson077@example.com,2022-05-21,74,GERMANY
+C0078,Nina,Anderson,nina.anderson078@example.com,2022-11-20,46,EGYPT
+C0079,Samuel,Thomas,samuel.thomas079@example.com,2025-06-06,69,SOUTH KOREA
+C0080,Elena,Doe,elena.doe080@example.com,2025-09-29,70,BANGLADESH
+C0081,Ananya,Brown,ananya.brown081@example.com,2022-10-03,34,BRAZIL
+C0082,David,Young,david.young082@example.com,2022-11-15,35,ITALY
+C0083,Ryan,Martinez,ryan.martinez083@example.com,2023-12-04,31,SINGAPORE
+C0084,Ethan,Lewis,ethan.lewis084@example.com,2024-09-27,34,SOUTH AFRICA
+C0085,Maria,Khan,maria.khan085@example.com,2025-07-23,45,EGYPT
+C0086,Mia,Patel,mia.patel086@example.com,2022-01-08,39,UAE
+C0087,Omar,Gonzalez,omar.gonzalez087@example.com,2022-11-27,65,POLAND
+C0088,Grace,White,grace.white088@example.com,2025-02-22,18,BRAZIL
+C0089,Wei,Jones,wei.jones089@example.com,2025-01-22,20,EGYPT
+C0090,Nina,Young,nina.young090@example.com,2022-10-31,45,UK
+C0091,Amit,Thomas,amit.thomas091@example.com,2024-01-17,75,SAUDI ARABIA
+C0092,Amit,Jackson,amit.jackson092@example.com,2023-03-07,61,GERMANY
+C0093,David,Jackson,david.jackson093@example.com,2025-02-20,74,NIGERIA
+C0094,Mateo,Jones,mateo.jones094@example.com,2023-04-30,73,IRELAND
+C0095,Emma,Thompson,emma.thompson095@example.com,2022-02-20,29,NEW ZEALAND
+C0096,Yuki,Thompson,yuki.thompson096@example.com,2025-10-03,73,NEW ZEALAND
+C0097,Sophia,Wilson,sophia.wilson097@example.com,2022-11-23,68,AUSTRALIA
+C0098,David,Lee,david.lee098@example.com,2022-03-21,72,INDIA
+C0099,Liam,Rodriguez,liam.rodriguez099@example.com,2024-07-31,40,ITALY
+C0100,Liam,Hernandez,liam.hernandez100@example.com,2022-02-18,60,FRANCE
+C0101,Camila,Moore,camila.moore101@example.com,2023-07-25,73,MEXICO
+C0102,Mia,Jackson,mia.jackson102@example.com,2025-08-06,50,NORWAY
+C0103,Samuel,Moore,samuel.moore103@example.com,2022-02-26,25,SOUTH AFRICA
+C0104,Ethan,Davis,ethan.davis104@example.com,2025-04-04,34,CANADA
+C0105,David,White,david.white105@example.com,2023-12-09,64,SAUDI ARABIA
+C0106,Hiro,White,hiro.white106@example.com,2025-05-26,50,BRAZIL
+C0107,Diego,Rodriguez,diego.rodriguez107@example.com,2023-06-06,20,AUSTRALIA
+C0108,Isabella,Doe,isabella.doe108@example.com,2024-11-30,69,BANGLADESH
+C0109,Noah,Martin,noah.martin109@example.com,2024-06-02,22,SINGAPORE
+C0110,Yuki,Taylor,yuki.taylor110@example.com,2025-09-20,72,BRAZIL
+C0111,Ananya,Lewis,ananya.lewis111@example.com,2023-09-26,60,DENMARK
+C0112,Hiro,Perez,hiro.perez112@example.com,2025-11-28,36,BANGLADESH
+C0113,Omar,Rodriguez,omar.rodriguez113@example.com,2024-05-11,60,NORWAY
+C0114,Emma,Thomas,emma.thomas114@example.com,2024-04-11,53,EGYPT
+C0115,John,Thomas,john.thomas115@example.com,2023-08-11,31,DENMARK
+C0116,Zoe,Taylor,zoe.taylor116@example.com,2024-08-10,46,POLAND
+C0117,Olivia,Lewis,olivia.lewis117@example.com,2024-08-27,68,SOUTH AFRICA
+C0118,Lucas,Khan,lucas.khan118@example.com,2023-08-05,50,SINGAPORE
+C0119,Chloe,Moore,chloe.moore119@example.com,2022-07-11,70,UAE
+C0120,Sophia,Thomas,sophia.thomas120@example.com,2023-04-06,69,FRANCE
+C0121,Fatima,Smith,fatima.smith121@example.com,2022-04-05,33,INDIA
+C0122,Chloe,Chen,chloe.chen122@example.com,2024-07-21,44,SOUTH AFRICA
+C0123,Daniel,Rodriguez,daniel.rodriguez123@example.com,2025-11-27,42,INDIA
+C0124,Camila,Lopez,camila.lopez124@example.com,2022-10-30,59,AUSTRALIA
+C0125,John,Brown,john.brown125@example.com,2024-05-20,32,IRELAND
+C0126,Elena,Sanchez,elena.sanchez126@example.com,2022-04-13,53,GERMANY
+C0127,Priya,Sanchez,priya.sanchez127@example.com,2022-10-01,69,POLAND
+C0128,Elena,Young,elena.young128@example.com,2025-05-04,38,UAE
+C0129,Chen,Lewis,chen.lewis129@example.com,2024-05-23,71,BANGLADESH
+C0130,Chen,Miller,chen.miller130@example.com,2024-08-30,46,SPAIN
+C0131,Sophia,Wilson,sophia.wilson131@example.com,2024-12-03,49,SOUTH KOREA
+C0132,Sophia,Wilson,sophia.wilson132@example.com,2024-06-19,22,AUSTRALIA
+C0133,Arjun,Lopez,arjun.lopez133@example.com,2023-07-11,39,NETHERLANDS
+C0134,Samuel,Khan,samuel.khan134@example.com,2022-10-11,27,GERMANY
+C0135,Diego,Jones,diego.jones135@example.com,2025-12-17,31,MEXICO
+C0136,Mateo,Thompson,mateo.thompson136@example.com,2023-11-09,52,POLAND
+C0137,Mateo,Garcia,mateo.garcia137@example.com,2023-02-28,71,DENMARK
+C0138,Diego,Smith,diego.smith138@example.com,2025-03-25,42,INDIA
+C0139,John,Jackson,john.jackson139@example.com,2023-09-04,66,NORWAY
+C0140,Mateo,Walker,mateo.walker140@example.com,2025-01-23,69,JAPAN
+C0141,Liam,Ramirez,liam.ramirez141@example.com,2023-03-26,35,DENMARK
+C0142,Layla,Smith,layla.smith142@example.com,2024-03-07,39,SINGAPORE
+C0143,Camila,Miller,camila.miller143@example.com,2024-08-15,26,JAPAN
+C0144,Samuel,Smith,samuel.smith144@example.com,2024-03-17,55,CHINA
+C0145,Jane,Khan,jane.khan145@example.com,2025-08-09,45,UK
+C0146,Min,Davis,min.davis146@example.com,2022-04-13,34,NORWAY
+C0147,Hiro,Martinez,hiro.martinez147@example.com,2024-07-20,38,NETHERLANDS
+C0148,Diego,Wilson,diego.wilson148@example.com,2024-05-13,34,EGYPT
+C0149,Sara,Clark,sara.clark149@example.com,2022-02-09,65,BANGLADESH
+C0150,Maria,Jackson,maria.jackson150@example.com,2023-04-05,59,MEXICO
+C0151,Amit,Smith,amit.smith151@example.com,2023-05-22,30,EGYPT
+C0152,Jane,Jones,jane.jones152@example.com,2023-05-04,26,INDIA
+C0153,Priya,Martinez,priya.martinez153@example.com,2024-08-10,62,SPAIN
+C0154,Nina,Miller,nina.miller154@example.com,2025-05-25,56,NEW ZEALAND
+C0155,Priya,Miller,priya.miller155@example.com,2023-09-30,24,CHINA
+C0156,Jane,Thomas,jane.thomas156@example.com,2025-03-25,61,NORWAY
+C0157,Camila,Rodriguez,camila.rodriguez157@example.com,2022-06-05,55,AUSTRALIA
+C0158,Sophia,Brown,sophia.brown158@example.com,2025-11-28,67,ITALY
+C0159,Ryan,Johnson,ryan.johnson159@example.com,2025-03-05,68,CANADA
+C0160,Alex,Walker,alex.walker160@example.com,2024-05-27,60,SWEDEN
+C0161,Wei,Lewis,wei.lewis161@example.com,2025-08-19,39,USA
+C0162,Mateo,Ramirez,mateo.ramirez162@example.com,2022-08-05,45,SWEDEN
+C0163,Min,Jones,min.jones163@example.com,2024-06-10,29,NEW ZEALAND
+C0164,Elena,Wilson,elena.wilson164@example.com,2025-06-15,69,BANGLADESH
+C0165,Ahmed,Sanchez,ahmed.sanchez165@example.com,2024-06-11,70,NEW ZEALAND
+C0166,Zoe,Wilson,zoe.wilson166@example.com,2023-10-23,72,GERMANY
+C0167,Sara,Wilson,sara.wilson167@example.com,2024-07-12,33,UAE
+C0168,Min,Lee,min.lee168@example.com,2023-11-20,19,INDIA
+C0169,Hiro,Davis,hiro.davis169@example.com,2024-09-25,31,SWEDEN
+C0170,Ethan,Moore,ethan.moore170@example.com,2023-07-27,74,JAPAN
+C0171,Mia,Young,mia.young171@example.com,2022-01-21,51,FRANCE
+C0172,Sara,Lopez,sara.lopez172@example.com,2024-04-12,49,BANGLADESH
+C0173,Sophia,Clark,sophia.clark173@example.com,2025-08-15,63,INDIA
+C0174,Chen,Smith,chen.smith174@example.com,2022-07-10,36,GERMANY
+C0175,Camila,Lopez,camila.lopez175@example.com,2023-09-20,60,CHINA
+C0176,Nina,Clark,nina.clark176@example.com,2025-02-07,51,SWEDEN
+C0177,Isabella,Young,isabella.young177@example.com,2023-11-09,40,AUSTRALIA
+C0178,Min,Wilson,min.wilson178@example.com,2023-09-20,34,GERMANY
+C0179,Priya,Rodriguez,priya.rodriguez179@example.com,2023-10-09,25,NEW ZEALAND
+C0180,Samuel,Davis,samuel.davis180@example.com,2023-01-28,31,NEW ZEALAND
+C0181,Ahmed,Wilson,ahmed.wilson181@example.com,2025-04-22,66,PAKISTAN
+C0182,Ryan,Anderson,ryan.anderson182@example.com,2022-07-25,71,FRANCE
+C0183,Arjun,Hernandez,arjun.hernandez183@example.com,2024-01-10,29,ITALY
+C0184,John,Walker,john.walker184@example.com,2022-09-17,35,CANADA
+C0185,Maria,Young,maria.young185@example.com,2023-08-22,62,UK
+C0186,Layla,Brown,layla.brown186@example.com,2022-01-26,54,ITALY
+C0187,Ahmed,Clark,ahmed.clark187@example.com,2024-06-21,39,IRELAND
+C0188,Maria,Gonzalez,maria.gonzalez188@example.com,2024-09-05,25,EGYPT
+C0189,Wei,Perez,wei.perez189@example.com,2024-10-04,22,CHINA
+C0190,Maria,Jones,maria.jones190@example.com,2022-11-02,69,CHINA
+C0191,Ananya,Khan,ananya.khan191@example.com,2023-05-24,25,BANGLADESH
+C0192,Mateo,Hernandez,mateo.hernandez192@example.com,2024-12-06,42,POLAND
+C0193,Chen,Thomas,chen.thomas193@example.com,2025-04-20,45,ITALY
+C0194,Daniel,Garcia,daniel.garcia194@example.com,2025-06-02,65,BRAZIL
+C0195,Olivia,Martinez,olivia.martinez195@example.com,2023-06-26,60,MEXICO
+C0196,Lucas,Lopez,lucas.lopez196@example.com,2022-12-22,53,MEXICO
+C0197,Lucas,Doe,lucas.doe197@example.com,2024-04-16,46,AUSTRALIA
+C0198,Ryan,Clark,ryan.clark198@example.com,2023-08-20,20,GERMANY
+C0199,Arjun,Anderson,arjun.anderson199@example.com,2025-12-10,73,POLAND
+C0200,Wei,Hernandez,wei.hernandez200@example.com,2023-06-26,68,SAUDI ARABIA
+C0201,Zoe,Rodriguez,zoe.rodriguez201@example.com,2024-05-20,25,BANGLADESH
+C0202,Liam,Jones,liam.jones202@example.com,2023-06-29,70,UK
+C0203,Wei,Garcia,wei.garcia203@example.com,2022-12-06,68,ITALY
+C0204,Ryan,Anderson,ryan.anderson204@example.com,2024-06-18,25,POLAND
+C0205,Ananya,Perez,ananya.perez205@example.com,2023-07-12,50,BANGLADESH
+C0206,Layla,Harris,layla.harris206@example.com,2022-06-14,56,CANADA
+C0207,Isabella,Taylor,isabella.taylor207@example.com,2025-05-21,34,USA
+C0208,Sara,Hernandez,sara.hernandez208@example.com,2025-10-12,71,NIGERIA
+C0209,Daniel,Smith,daniel.smith209@example.com,2025-10-08,70,SPAIN
+C0210,Daniel,Patel,daniel.patel210@example.com,2022-12-25,48,PAKISTAN
+C0211,Chen,Wilson,chen.wilson211@example.com,2023-01-07,55,DENMARK
+C0212,Layla,Khan,layla.khan212@example.com,2024-08-20,40,DENMARK
+C0213,Yuki,Taylor,yuki.taylor213@example.com,2025-10-04,24,NIGERIA
+C0214,Lucas,Moore,lucas.moore214@example.com,2024-04-23,62,INDIA
+C0215,Arjun,Perez,arjun.perez215@example.com,2025-01-31,20,POLAND
+C0216,Sara,Taylor,sara.taylor216@example.com,2023-06-01,38,BRAZIL
+C0217,Camila,Lewis,camila.lewis217@example.com,2022-01-03,60,NIGERIA
+C0218,Samuel,Sanchez,samuel.sanchez218@example.com,2024-04-26,21,FRANCE
+C0219,Elena,Martin,elena.martin219@example.com,2025-06-29,66,INDIA
+C0220,Chen,Garcia,chen.garcia220@example.com,2023-02-21,35,BANGLADESH
+C0221,Omar,Anderson,omar.anderson221@example.com,2024-06-16,74,AUSTRALIA
+C0222,Layla,Johnson,layla.johnson222@example.com,2022-03-01,58,JAPAN
+C0223,Sophia,Miller,sophia.miller223@example.com,2023-09-29,53,USA
+C0224,Grace,Thompson,grace.thompson224@example.com,2022-07-10,32,EGYPT
+C0225,Priya,Sanchez,priya.sanchez225@example.com,2022-08-29,59,EGYPT
+C0226,Fatima,Ramirez,fatima.ramirez226@example.com,2023-08-21,50,AUSTRALIA
+C0227,Mia,Thompson,mia.thompson227@example.com,2024-09-15,48,GERMANY
+C0228,Min,Young,min.young228@example.com,2022-10-24,42,FRANCE
+C0229,Ryan,Lewis,ryan.lewis229@example.com,2022-10-07,73,MEXICO
+C0230,Mia,Thompson,mia.thompson230@example.com,2023-11-28,68,PAKISTAN
+C0231,Mia,Doe,mia.doe231@example.com,2023-08-03,64,ITALY
+C0232,Zoe,Ramirez,zoe.ramirez232@example.com,2022-11-01,46,BANGLADESH
+C0233,Ahmed,Jackson,ahmed.jackson233@example.com,2023-11-12,53,UAE
+C0234,Samuel,Lee,samuel.lee234@example.com,2024-07-21,38,NIGERIA
+C0235,Noah,Lopez,noah.lopez235@example.com,2025-03-17,42,GERMANY
+C0236,Mateo,Patel,mateo.patel236@example.com,2023-10-14,65,INDIA
+C0237,Diego,Lee,diego.lee237@example.com,2025-09-21,68,EGYPT
+C0238,Fatima,Ramirez,fatima.ramirez238@example.com,2022-03-17,26,PAKISTAN
+C0239,Zoe,Moore,zoe.moore239@example.com,2022-07-25,73,NIGERIA
+C0240,Chen,Brown,chen.brown240@example.com,2024-12-13,47,USA
+C0241,Fatima,Thompson,fatima.thompson241@example.com,2025-09-02,27,MEXICO
+C0242,Ahmed,Gonzalez,ahmed.gonzalez242@example.com,2023-11-25,57,AUSTRALIA
+C0243,Camila,Khan,camila.khan243@example.com,2023-11-04,72,SINGAPORE
+C0244,Samuel,Lee,samuel.lee244@example.com,2023-10-11,58,AUSTRALIA
+C0245,Layla,Walker,layla.walker245@example.com,2022-03-15,57,MEXICO
+C0246,Sophia,Anderson,sophia.anderson246@example.com,2023-04-11,65,MEXICO
+C0247,Isabella,Brown,isabella.brown247@example.com,2025-07-21,63,NIGERIA
+C0248,David,Harris,david.harris248@example.com,2022-12-07,62,ITALY
+C0249,Jane,Patel,jane.patel249@example.com,2023-10-27,68,CANADA
+C0250,Arjun,Jackson,arjun.jackson250@example.com,2024-02-07,45,UK
