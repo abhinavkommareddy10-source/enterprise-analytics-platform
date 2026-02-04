@@ -1,0 +1,22 @@
+project:
+  name: enterprise-analytics-platform
+  mode: finance
+
+paths:
+  raw_dir: data/raw
+  processed_dir: data/processed
+  reports_dir: data/reports
+
+database:
+  host: localhost
+  port: 5432
+  name: analytics
+  user: app
+  password: app
+
+data:
+  customers_file: customers.csv
+  transactions_file: transactions.csv
+
+quality:
+  fail_on_error: true
